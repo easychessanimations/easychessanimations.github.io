@@ -1,0 +1,9 @@
+<script src="stockfish.js"></script>
+<script>
+var sf = Stockfish();
+sf.addMessageListener(function (line) {
+  console.log(line);
+});
+
+sf.postMessage('uci');
+</script>

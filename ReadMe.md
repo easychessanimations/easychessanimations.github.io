@@ -1,0 +1,3 @@
+# easychessanimations pages
+
+Easychessanimations pages.
